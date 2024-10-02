@@ -12,7 +12,7 @@ ProbNum25 will have a proceedings; you can find more details about this [here](/
 
 ## Organising Committee
 
-- Motonobu Kanagawa (Main organiser)
-- Jon Cockayne
-- Alexandra Gessner
-- Philipp Hennig
+- Motonobu Kanagawa (EURECOM, France)
+- Jon Cockayne (University of Southampton, UK)
+- Alexandra Gessner (Astrazeneca, Spain)
+- Philipp Hennig (University of Tuebingen, Germany)
